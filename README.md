@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Computer Science student and aspiring Full-Stack Developer with a strong interest in Backend Development, AI, Machine Learning, and Cloud Technologies.<br>I enjoy building real-world applications that solve practical problems. Currently, I am expanding my expertise in Spring Boot, React, Docker, Databases, and Modern Software Architecture.<br>I believe in learning by building projects and continuously improving my problem-solving and development skills.
+I'm a passionate Computer Science student and aspiring Full-Stack Developer with a strong interest in Software Development, AI, and Machine Learning.<br>I enjoy building real-world applications that solve practical problems and exploring different software tools. Currently, I am expanding my expertise in Spring Boot, React, Docker, Databases, and Modern Software Architecture.<br>I believe in learning by building projects and continuously improving my problem-solving and development skills.
 
 
 ## 🌐 Socials:
